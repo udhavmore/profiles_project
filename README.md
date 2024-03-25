@@ -1,2 +1,2 @@
-# python-django
-Project for backend REST API using python-django
+# Profiles REST API
+REST API providing basic fucntionality for managing user profiles.
